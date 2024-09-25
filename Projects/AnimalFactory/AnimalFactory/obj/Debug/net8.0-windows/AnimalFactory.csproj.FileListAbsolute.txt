@@ -14,3 +14,7 @@ C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\obj\Debug\net8.0-windows
 C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\obj\Debug\net8.0-windows\AnimalFactory.pdb
 C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\obj\Debug\net8.0-windows\AnimalFactory.genruntimeconfig.cache
 C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\obj\Debug\net8.0-windows\ref\AnimalFactory.dll
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\bin\Debug\net8.0-windows\AnimalFactoryLibrary.dll
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\bin\Debug\net8.0-windows\AnimalFactoryLibrary.pdb
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\obj\Debug\net8.0-windows\AnimalFactory.csproj.AssemblyReference.cache
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\obj\Debug\net8.0-windows\AnimalFa.234C00D5.Up2Date

@@ -1,0 +1,11 @@
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactoryLibrary\bin\Debug\net8.0\AnimalFactoryLibrary.deps.json
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactoryLibrary\bin\Debug\net8.0\AnimalFactoryLibrary.dll
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactoryLibrary\bin\Debug\net8.0\AnimalFactoryLibrary.pdb
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactoryLibrary\obj\Debug\net8.0\AnimalFactoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactoryLibrary\obj\Debug\net8.0\AnimalFactoryLibrary.AssemblyInfoInputs.cache
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactoryLibrary\obj\Debug\net8.0\AnimalFactoryLibrary.AssemblyInfo.cs
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactoryLibrary\obj\Debug\net8.0\AnimalFactoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactoryLibrary\obj\Debug\net8.0\AnimalFactoryLibrary.dll
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactoryLibrary\obj\Debug\net8.0\refint\AnimalFactoryLibrary.dll
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactoryLibrary\obj\Debug\net8.0\AnimalFactoryLibrary.pdb
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactoryLibrary\obj\Debug\net8.0\ref\AnimalFactoryLibrary.dll

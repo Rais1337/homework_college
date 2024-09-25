@@ -1,3 +1,5 @@
+using AnimalFactoryLibrary;
+
 namespace AnimalFactory
 {
     public partial class Form1 : Form

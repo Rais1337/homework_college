@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalFactory", "AnimalFactory\AnimalFactory.csproj", "{A1D27FD7-B1CE-4F7B-9181-C6169114F861}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalFactory", "AnimalFactory\AnimalFactory.csproj", "{A1D27FD7-B1CE-4F7B-9181-C6169114F861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalFactoryLibrary", "AnimalFactoryLibrary\AnimalFactoryLibrary.csproj", "{B9DD7084-9793-4139-8E29-07506E0CEF9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A1D27FD7-B1CE-4F7B-9181-C6169114F861}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1D27FD7-B1CE-4F7B-9181-C6169114F861}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1D27FD7-B1CE-4F7B-9181-C6169114F861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DD7084-9793-4139-8E29-07506E0CEF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DD7084-9793-4139-8E29-07506E0CEF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DD7084-9793-4139-8E29-07506E0CEF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DD7084-9793-4139-8E29-07506E0CEF9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

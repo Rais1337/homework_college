@@ -7,28 +7,16 @@
       "RelativeMoniker": "D:0:0:{A1D27FD7-B1CE-4F7B-9181-C6169114F861}|AnimalFactory\\AnimalFactory.csproj|solutionrelative:animalfactory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B9DD7084-9793-4139-8E29-07506E0CEF9E}|AnimalFactoryLibrary\\AnimalFactoryLibrary.csproj|c:\\users\\kosty\\source\\repos\\animalfactory\\animalfactorylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DD7084-9793-4139-8E29-07506E0CEF9E}|AnimalFactoryLibrary\\AnimalFactoryLibrary.csproj|solutionrelative:animalfactorylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1D27FD7-B1CE-4F7B-9181-C6169114F861}|AnimalFactory\\AnimalFactory.csproj|c:\\users\\kosty\\source\\repos\\animalfactory\\animalfactory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A1D27FD7-B1CE-4F7B-9181-C6169114F861}|AnimalFactory\\AnimalFactory.csproj|solutionrelative:animalfactory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D27FD7-B1CE-4F7B-9181-C6169114F861}|AnimalFactory\\AnimalFactory.csproj|c:\\users\\kosty\\source\\repos\\animalfactory\\animalfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D27FD7-B1CE-4F7B-9181-C6169114F861}|AnimalFactory\\AnimalFactory.csproj|solutionrelative:animalfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D27FD7-B1CE-4F7B-9181-C6169114F861}|AnimalFactory\\AnimalFactory.csproj|c:\\users\\kosty\\source\\repos\\animalfactory\\animalfactory\\savannaanimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D27FD7-B1CE-4F7B-9181-C6169114F861}|AnimalFactory\\AnimalFactory.csproj|solutionrelative:animalfactory\\savannaanimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D27FD7-B1CE-4F7B-9181-C6169114F861}|AnimalFactory\\AnimalFactory.csproj|c:\\users\\kosty\\source\\repos\\animalfactory\\animalfactory\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D27FD7-B1CE-4F7B-9181-C6169114F861}|AnimalFactory\\AnimalFactory.csproj|solutionrelative:animalfactory\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D27FD7-B1CE-4F7B-9181-C6169114F861}|AnimalFactory\\AnimalFactory.csproj|c:\\users\\kosty\\source\\repos\\animalfactory\\animalfactory\\ianimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D27FD7-B1CE-4F7B-9181-C6169114F861}|AnimalFactory\\AnimalFactory.csproj|solutionrelative:animalfactory\\ianimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1D27FD7-B1CE-4F7B-9181-C6169114F861}|AnimalFactory\\AnimalFactory.csproj|c:\\users\\kosty\\source\\repos\\animalfactory\\animalfactory\\desertanimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1D27FD7-B1CE-4F7B-9181-C6169114F861}|AnimalFactory\\AnimalFactory.csproj|solutionrelative:animalfactory\\desertanimalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9DD7084-9793-4139-8E29-07506E0CEF9E}|AnimalFactoryLibrary\\AnimalFactoryLibrary.csproj|c:\\users\\kosty\\source\\repos\\animalfactory\\animalfactorylibrary\\animalfactorylibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9DD7084-9793-4139-8E29-07506E0CEF9E}|AnimalFactoryLibrary\\AnimalFactoryLibrary.csproj|solutionrelative:animalfactorylibrary\\animalfactorylibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +26,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactoryLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "AnimalFactoryLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactoryLibrary\\Class1.cs",
+              "RelativeToolTip": "AnimalFactoryLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:39:32.103Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -50,92 +52,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SavannaAnimalFactory.cs",
-              "DocumentMoniker": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactory\\SavannaAnimalFactory.cs",
-              "RelativeDocumentMoniker": "AnimalFactory\\SavannaAnimalFactory.cs",
-              "ToolTip": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactory\\SavannaAnimalFactory.cs",
-              "RelativeToolTip": "AnimalFactory\\SavannaAnimalFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T09:13:12.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactory\\Program.cs",
-              "RelativeDocumentMoniker": "AnimalFactory\\Program.cs",
-              "ToolTip": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactory\\Program.cs",
-              "RelativeToolTip": "AnimalFactory\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T09:13:11.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactory\\Form1.cs",
-              "RelativeDocumentMoniker": "AnimalFactory\\Form1.cs",
-              "ToolTip": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactory\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "AnimalFactory\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T09:13:08.418Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IAnimalFactory.cs",
-              "DocumentMoniker": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactory\\IAnimalFactory.cs",
-              "RelativeDocumentMoniker": "AnimalFactory\\IAnimalFactory.cs",
-              "ToolTip": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactory\\IAnimalFactory.cs",
-              "RelativeToolTip": "AnimalFactory\\IAnimalFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T09:12:58.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAnimal.cs",
-              "DocumentMoniker": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactory\\IAnimal.cs",
-              "RelativeDocumentMoniker": "AnimalFactory\\IAnimal.cs",
-              "ToolTip": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactory\\IAnimal.cs",
-              "RelativeToolTip": "AnimalFactory\\IAnimal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T09:12:57.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DesertAnimalFactory.cs",
-              "DocumentMoniker": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactory\\DesertAnimalFactory.cs",
-              "RelativeDocumentMoniker": "AnimalFactory\\DesertAnimalFactory.cs",
-              "ToolTip": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactory\\DesertAnimalFactory.cs",
-              "RelativeToolTip": "AnimalFactory\\DesertAnimalFactory.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T09:12:51.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactory\\Form1.cs",
               "RelativeDocumentMoniker": "AnimalFactory\\Form1.cs",
               "ToolTip": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactory\\Form1.cs",
               "RelativeToolTip": "AnimalFactory\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T22:20:06.816Z",
+              "WhenOpened": "2024-09-25T10:14:39.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactory\\Form1.cs",
+              "RelativeDocumentMoniker": "AnimalFactory\\Form1.cs",
+              "ToolTip": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactory\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "AnimalFactory\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:14:36.647Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimalFactoryLibrary",
+              "DocumentMoniker": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactoryLibrary\\AnimalFactoryLibrary.csproj",
+              "RelativeDocumentMoniker": "AnimalFactoryLibrary\\AnimalFactoryLibrary.csproj",
+              "ToolTip": "C:\\Users\\kosty\\source\\repos\\AnimalFactory\\AnimalFactoryLibrary\\AnimalFactoryLibrary.csproj",
+              "RelativeToolTip": "AnimalFactoryLibrary\\AnimalFactoryLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T10:13:23.304Z",
               "EditorCaption": ""
             }
           ]
