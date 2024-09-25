@@ -1,0 +1,16 @@
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\bin\Debug\net8.0-windows\AnimalFactory.exe
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\bin\Debug\net8.0-windows\AnimalFactory.deps.json
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\bin\Debug\net8.0-windows\AnimalFactory.runtimeconfig.json
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\bin\Debug\net8.0-windows\AnimalFactory.dll
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\bin\Debug\net8.0-windows\AnimalFactory.pdb
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\obj\Debug\net8.0-windows\AnimalFactory.Form1.resources
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\obj\Debug\net8.0-windows\AnimalFactory.csproj.GenerateResource.cache
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\obj\Debug\net8.0-windows\AnimalFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\obj\Debug\net8.0-windows\AnimalFactory.AssemblyInfoInputs.cache
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\obj\Debug\net8.0-windows\AnimalFactory.AssemblyInfo.cs
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\obj\Debug\net8.0-windows\AnimalFactory.csproj.CoreCompileInputs.cache
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\obj\Debug\net8.0-windows\AnimalFactory.dll
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\obj\Debug\net8.0-windows\refint\AnimalFactory.dll
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\obj\Debug\net8.0-windows\AnimalFactory.pdb
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\obj\Debug\net8.0-windows\AnimalFactory.genruntimeconfig.cache
+C:\Users\kosty\source\repos\AnimalFactory\AnimalFactory\obj\Debug\net8.0-windows\ref\AnimalFactory.dll
