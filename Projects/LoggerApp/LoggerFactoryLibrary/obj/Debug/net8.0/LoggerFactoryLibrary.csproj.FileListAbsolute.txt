@@ -1,0 +1,5 @@
+C:\Мои проекты\homework_college\Projects\LoggerApp\LoggerFactoryLibrary\obj\Debug\net8.0\LoggerFactoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Мои проекты\homework_college\Projects\LoggerApp\LoggerFactoryLibrary\obj\Debug\net8.0\LoggerFactoryLibrary.AssemblyInfoInputs.cache
+C:\Мои проекты\homework_college\Projects\LoggerApp\LoggerFactoryLibrary\obj\Debug\net8.0\LoggerFactoryLibrary.AssemblyInfo.cs
+C:\Мои проекты\homework_college\Projects\LoggerApp\LoggerFactoryLibrary\obj\Debug\net8.0\LoggerFactoryLibrary.csproj.CoreCompileInputs.cache
+C:\Мои проекты\homework_college\Projects\LoggerApp\LoggerFactoryLibrary\obj\Debug\net8.0\LoggerFactoryLibrary.sourcelink.json

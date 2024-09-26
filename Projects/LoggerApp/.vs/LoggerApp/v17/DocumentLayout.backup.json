@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D853349-0A6B-4D16-A8B5-C8620F90072E}|LoggerFactoryLibrary\\LoggerFactoryLibrary.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\loggerapp\\loggerfactorylibrary\\fileloggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D853349-0A6B-4D16-A8B5-C8620F90072E}|LoggerFactoryLibrary\\LoggerFactoryLibrary.csproj|solutionrelative:loggerfactorylibrary\\fileloggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D853349-0A6B-4D16-A8B5-C8620F90072E}|LoggerFactoryLibrary\\LoggerFactoryLibrary.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\loggerapp\\loggerfactorylibrary\\consoleloggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D853349-0A6B-4D16-A8B5-C8620F90072E}|LoggerFactoryLibrary\\LoggerFactoryLibrary.csproj|solutionrelative:loggerfactorylibrary\\consoleloggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D853349-0A6B-4D16-A8B5-C8620F90072E}|LoggerFactoryLibrary\\LoggerFactoryLibrary.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\loggerapp\\loggerfactorylibrary\\textboxloggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D853349-0A6B-4D16-A8B5-C8620F90072E}|LoggerFactoryLibrary\\LoggerFactoryLibrary.csproj|solutionrelative:loggerfactorylibrary\\textboxloggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D853349-0A6B-4D16-A8B5-C8620F90072E}|LoggerFactoryLibrary\\LoggerFactoryLibrary.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\loggerapp\\loggerfactorylibrary\\loggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D853349-0A6B-4D16-A8B5-C8620F90072E}|LoggerFactoryLibrary\\LoggerFactoryLibrary.csproj|solutionrelative:loggerfactorylibrary\\loggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D853349-0A6B-4D16-A8B5-C8620F90072E}|LoggerFactoryLibrary\\LoggerFactoryLibrary.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\loggerapp\\loggerfactorylibrary\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D853349-0A6B-4D16-A8B5-C8620F90072E}|LoggerFactoryLibrary\\LoggerFactoryLibrary.csproj|solutionrelative:loggerfactorylibrary\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D853349-0A6B-4D16-A8B5-C8620F90072E}|LoggerFactoryLibrary\\LoggerFactoryLibrary.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\loggerapp\\loggerfactorylibrary\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D853349-0A6B-4D16-A8B5-C8620F90072E}|LoggerFactoryLibrary\\LoggerFactoryLibrary.csproj|solutionrelative:loggerfactorylibrary\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D853349-0A6B-4D16-A8B5-C8620F90072E}|LoggerFactoryLibrary\\LoggerFactoryLibrary.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\loggerapp\\loggerfactorylibrary\\textboxlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D853349-0A6B-4D16-A8B5-C8620F90072E}|LoggerFactoryLibrary\\LoggerFactoryLibrary.csproj|solutionrelative:loggerfactorylibrary\\textboxlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D853349-0A6B-4D16-A8B5-C8620F90072E}|LoggerFactoryLibrary\\LoggerFactoryLibrary.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\loggerapp\\loggerfactorylibrary\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D853349-0A6B-4D16-A8B5-C8620F90072E}|LoggerFactoryLibrary\\LoggerFactoryLibrary.csproj|solutionrelative:loggerfactorylibrary\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A601D3D4-F5CF-4A72-9963-A4D655D38793}|LoggerApp\\LoggerApp.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\loggerapp\\loggerapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A601D3D4-F5CF-4A72-9963-A4D655D38793}|LoggerApp\\LoggerApp.csproj|solutionrelative:loggerapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleLoggerFactory.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerFactoryLibrary\\ConsoleLoggerFactory.cs",
+              "RelativeDocumentMoniker": "LoggerFactoryLibrary\\ConsoleLoggerFactory.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerFactoryLibrary\\ConsoleLoggerFactory.cs",
+              "RelativeToolTip": "LoggerFactoryLibrary\\ConsoleLoggerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:00:19.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextBoxLoggerFactory.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerFactoryLibrary\\TextBoxLoggerFactory.cs",
+              "RelativeDocumentMoniker": "LoggerFactoryLibrary\\TextBoxLoggerFactory.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerFactoryLibrary\\TextBoxLoggerFactory.cs",
+              "RelativeToolTip": "LoggerFactoryLibrary\\TextBoxLoggerFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:00:04.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileLoggerFactory.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerFactoryLibrary\\FileLoggerFactory.cs",
+              "RelativeDocumentMoniker": "LoggerFactoryLibrary\\FileLoggerFactory.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerFactoryLibrary\\FileLoggerFactory.cs",
+              "RelativeToolTip": "LoggerFactoryLibrary\\FileLoggerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:59:40.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoggerFactory.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerFactoryLibrary\\LoggerFactory.cs",
+              "RelativeDocumentMoniker": "LoggerFactoryLibrary\\LoggerFactory.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerFactoryLibrary\\LoggerFactory.cs",
+              "RelativeToolTip": "LoggerFactoryLibrary\\LoggerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:59:33.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerFactoryLibrary\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "LoggerFactoryLibrary\\ConsoleLogger.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerFactoryLibrary\\ConsoleLogger.cs",
+              "RelativeToolTip": "LoggerFactoryLibrary\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:59:25.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextBoxLogger.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerFactoryLibrary\\TextBoxLogger.cs",
+              "RelativeDocumentMoniker": "LoggerFactoryLibrary\\TextBoxLogger.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerFactoryLibrary\\TextBoxLogger.cs",
+              "RelativeToolTip": "LoggerFactoryLibrary\\TextBoxLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:59:16.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerFactoryLibrary\\FileLogger.cs",
+              "RelativeDocumentMoniker": "LoggerFactoryLibrary\\FileLogger.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerFactoryLibrary\\FileLogger.cs",
+              "RelativeToolTip": "LoggerFactoryLibrary\\FileLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:59:08.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerFactoryLibrary\\ILogger.cs",
+              "RelativeDocumentMoniker": "LoggerFactoryLibrary\\ILogger.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerFactoryLibrary\\ILogger.cs",
+              "RelativeToolTip": "LoggerFactoryLibrary\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:58:58.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerApp\\Form1.cs",
+              "RelativeDocumentMoniker": "LoggerApp\\Form1.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LoggerApp\\LoggerApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "LoggerApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:50:25.083Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
