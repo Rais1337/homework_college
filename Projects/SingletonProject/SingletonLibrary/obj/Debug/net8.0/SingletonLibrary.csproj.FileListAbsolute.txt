@@ -1,0 +1,12 @@
+C:\Мои проекты\homework_college\Projects\SingletonProject\SingletonLibrary\bin\Debug\net8.0\SingletonLibrary.deps.json
+C:\Мои проекты\homework_college\Projects\SingletonProject\SingletonLibrary\bin\Debug\net8.0\SingletonLibrary.dll
+C:\Мои проекты\homework_college\Projects\SingletonProject\SingletonLibrary\bin\Debug\net8.0\SingletonLibrary.pdb
+C:\Мои проекты\homework_college\Projects\SingletonProject\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Мои проекты\homework_college\Projects\SingletonProject\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.AssemblyInfoInputs.cache
+C:\Мои проекты\homework_college\Projects\SingletonProject\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.AssemblyInfo.cs
+C:\Мои проекты\homework_college\Projects\SingletonProject\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.csproj.CoreCompileInputs.cache
+C:\Мои проекты\homework_college\Projects\SingletonProject\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.sourcelink.json
+C:\Мои проекты\homework_college\Projects\SingletonProject\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.dll
+C:\Мои проекты\homework_college\Projects\SingletonProject\SingletonLibrary\obj\Debug\net8.0\refint\SingletonLibrary.dll
+C:\Мои проекты\homework_college\Projects\SingletonProject\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.pdb
+C:\Мои проекты\homework_college\Projects\SingletonProject\SingletonLibrary\obj\Debug\net8.0\ref\SingletonLibrary.dll

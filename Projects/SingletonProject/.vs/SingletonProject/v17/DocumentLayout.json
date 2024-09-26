@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\SingletonProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1365DC2D-CFAA-4701-95D7-9F97A7D819B4}|SingletonProject\\SingletonProject.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\singletonproject\\singletonproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1365DC2D-CFAA-4701-95D7-9F97A7D819B4}|SingletonProject\\SingletonProject.csproj|solutionrelative:singletonproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1365DC2D-CFAA-4701-95D7-9F97A7D819B4}|SingletonProject\\SingletonProject.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\singletonproject\\singletonproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1365DC2D-CFAA-4701-95D7-9F97A7D819B4}|SingletonProject\\SingletonProject.csproj|solutionrelative:singletonproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22D807B-F4D8-41C2-AAA8-63969AFB965C}|SingletonLibrary\\SingletonLibrary.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\singletonproject\\singletonlibrary\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22D807B-F4D8-41C2-AAA8-63969AFB965C}|SingletonLibrary\\SingletonLibrary.csproj|solutionrelative:singletonlibrary\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22D807B-F4D8-41C2-AAA8-63969AFB965C}|SingletonLibrary\\SingletonLibrary.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\singletonproject\\singletonlibrary\\documentsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22D807B-F4D8-41C2-AAA8-63969AFB965C}|SingletonLibrary\\SingletonLibrary.csproj|solutionrelative:singletonlibrary\\documentsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22D807B-F4D8-41C2-AAA8-63969AFB965C}|SingletonLibrary\\SingletonLibrary.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\singletonproject\\singletonlibrary\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22D807B-F4D8-41C2-AAA8-63969AFB965C}|SingletonLibrary\\SingletonLibrary.csproj|solutionrelative:singletonlibrary\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\SingletonProject\\SingletonLibrary\\Logger.cs",
+              "RelativeDocumentMoniker": "SingletonLibrary\\Logger.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\SingletonProject\\SingletonLibrary\\Logger.cs",
+              "RelativeToolTip": "SingletonLibrary\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:44:00.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentSaver.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\SingletonProject\\SingletonLibrary\\DocumentSaver.cs",
+              "RelativeDocumentMoniker": "SingletonLibrary\\DocumentSaver.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\SingletonProject\\SingletonLibrary\\DocumentSaver.cs",
+              "RelativeToolTip": "SingletonLibrary\\DocumentSaver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:43:55.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbManager.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\SingletonProject\\SingletonLibrary\\DbManager.cs",
+              "RelativeDocumentMoniker": "SingletonLibrary\\DbManager.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\SingletonProject\\SingletonLibrary\\DbManager.cs",
+              "RelativeToolTip": "SingletonLibrary\\DbManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:43:51.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\SingletonProject\\SingletonProject\\Form1.cs",
+              "RelativeDocumentMoniker": "SingletonProject\\Form1.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\SingletonProject\\SingletonProject\\Form1.cs",
+              "RelativeToolTip": "SingletonProject\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:38:17.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\SingletonProject\\SingletonProject\\Form1.cs",
+              "RelativeDocumentMoniker": "SingletonProject\\Form1.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\SingletonProject\\SingletonProject\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "SingletonProject\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:33:16.481Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
