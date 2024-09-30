@@ -1,0 +1,17 @@
+C:\Мои проекты\homework_college\Projects\LaptopBuilder\LaptopBuilder\bin\Debug\net8.0-windows\LaptopBuilder.exe
+C:\Мои проекты\homework_college\Projects\LaptopBuilder\LaptopBuilder\bin\Debug\net8.0-windows\LaptopBuilder.deps.json
+C:\Мои проекты\homework_college\Projects\LaptopBuilder\LaptopBuilder\bin\Debug\net8.0-windows\LaptopBuilder.runtimeconfig.json
+C:\Мои проекты\homework_college\Projects\LaptopBuilder\LaptopBuilder\bin\Debug\net8.0-windows\LaptopBuilder.dll
+C:\Мои проекты\homework_college\Projects\LaptopBuilder\LaptopBuilder\bin\Debug\net8.0-windows\LaptopBuilder.pdb
+C:\Мои проекты\homework_college\Projects\LaptopBuilder\LaptopBuilder\obj\Debug\net8.0-windows\LaptopBuilder.Form1.resources
+C:\Мои проекты\homework_college\Projects\LaptopBuilder\LaptopBuilder\obj\Debug\net8.0-windows\LaptopBuilder.csproj.GenerateResource.cache
+C:\Мои проекты\homework_college\Projects\LaptopBuilder\LaptopBuilder\obj\Debug\net8.0-windows\LaptopBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Мои проекты\homework_college\Projects\LaptopBuilder\LaptopBuilder\obj\Debug\net8.0-windows\LaptopBuilder.AssemblyInfoInputs.cache
+C:\Мои проекты\homework_college\Projects\LaptopBuilder\LaptopBuilder\obj\Debug\net8.0-windows\LaptopBuilder.AssemblyInfo.cs
+C:\Мои проекты\homework_college\Projects\LaptopBuilder\LaptopBuilder\obj\Debug\net8.0-windows\LaptopBuilder.csproj.CoreCompileInputs.cache
+C:\Мои проекты\homework_college\Projects\LaptopBuilder\LaptopBuilder\obj\Debug\net8.0-windows\LaptopBuilder.sourcelink.json
+C:\Мои проекты\homework_college\Projects\LaptopBuilder\LaptopBuilder\obj\Debug\net8.0-windows\LaptopBuilder.dll
+C:\Мои проекты\homework_college\Projects\LaptopBuilder\LaptopBuilder\obj\Debug\net8.0-windows\refint\LaptopBuilder.dll
+C:\Мои проекты\homework_college\Projects\LaptopBuilder\LaptopBuilder\obj\Debug\net8.0-windows\LaptopBuilder.pdb
+C:\Мои проекты\homework_college\Projects\LaptopBuilder\LaptopBuilder\obj\Debug\net8.0-windows\LaptopBuilder.genruntimeconfig.cache
+C:\Мои проекты\homework_college\Projects\LaptopBuilder\LaptopBuilder\obj\Debug\net8.0-windows\ref\LaptopBuilder.dll
