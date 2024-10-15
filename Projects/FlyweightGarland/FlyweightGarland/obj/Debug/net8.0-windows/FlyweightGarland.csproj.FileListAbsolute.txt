@@ -1,0 +1,16 @@
+C:\Users\kosty\source\repos\FlyweightGarland\FlyweightGarland\obj\Debug\net8.0-windows\FlyweightGarland.Form1.resources
+C:\Users\kosty\source\repos\FlyweightGarland\FlyweightGarland\obj\Debug\net8.0-windows\FlyweightGarland.csproj.GenerateResource.cache
+C:\Users\kosty\source\repos\FlyweightGarland\FlyweightGarland\obj\Debug\net8.0-windows\FlyweightGarland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosty\source\repos\FlyweightGarland\FlyweightGarland\obj\Debug\net8.0-windows\FlyweightGarland.AssemblyInfoInputs.cache
+C:\Users\kosty\source\repos\FlyweightGarland\FlyweightGarland\obj\Debug\net8.0-windows\FlyweightGarland.AssemblyInfo.cs
+C:\Users\kosty\source\repos\FlyweightGarland\FlyweightGarland\obj\Debug\net8.0-windows\FlyweightGarland.csproj.CoreCompileInputs.cache
+C:\Users\kosty\source\repos\FlyweightGarland\FlyweightGarland\bin\Debug\net8.0-windows\FlyweightGarland.exe
+C:\Users\kosty\source\repos\FlyweightGarland\FlyweightGarland\bin\Debug\net8.0-windows\FlyweightGarland.deps.json
+C:\Users\kosty\source\repos\FlyweightGarland\FlyweightGarland\bin\Debug\net8.0-windows\FlyweightGarland.runtimeconfig.json
+C:\Users\kosty\source\repos\FlyweightGarland\FlyweightGarland\bin\Debug\net8.0-windows\FlyweightGarland.dll
+C:\Users\kosty\source\repos\FlyweightGarland\FlyweightGarland\bin\Debug\net8.0-windows\FlyweightGarland.pdb
+C:\Users\kosty\source\repos\FlyweightGarland\FlyweightGarland\obj\Debug\net8.0-windows\FlyweightGarland.dll
+C:\Users\kosty\source\repos\FlyweightGarland\FlyweightGarland\obj\Debug\net8.0-windows\refint\FlyweightGarland.dll
+C:\Users\kosty\source\repos\FlyweightGarland\FlyweightGarland\obj\Debug\net8.0-windows\FlyweightGarland.pdb
+C:\Users\kosty\source\repos\FlyweightGarland\FlyweightGarland\obj\Debug\net8.0-windows\FlyweightGarland.genruntimeconfig.cache
+C:\Users\kosty\source\repos\FlyweightGarland\FlyweightGarland\obj\Debug\net8.0-windows\ref\FlyweightGarland.dll
