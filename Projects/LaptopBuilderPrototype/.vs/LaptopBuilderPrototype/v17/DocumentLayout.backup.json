@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LaptopBuilderPrototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4528F88C-BCBD-4585-9E6C-2A6E97691688}|LaptopBuilderPrototype\\LaptopBuilderPrototype.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\laptopbuilderprototype\\laptopbuilderprototype\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4528F88C-BCBD-4585-9E6C-2A6E97691688}|LaptopBuilderPrototype\\LaptopBuilderPrototype.csproj|solutionrelative:laptopbuilderprototype\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4528F88C-BCBD-4585-9E6C-2A6E97691688}|LaptopBuilderPrototype\\LaptopBuilderPrototype.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\laptopbuilderprototype\\laptopbuilderprototype\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4528F88C-BCBD-4585-9E6C-2A6E97691688}|LaptopBuilderPrototype\\LaptopBuilderPrototype.csproj|solutionrelative:laptopbuilderprototype\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4528F88C-BCBD-4585-9E6C-2A6E97691688}|LaptopBuilderPrototype\\LaptopBuilderPrototype.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\laptopbuilderprototype\\laptopbuilderprototype\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4528F88C-BCBD-4585-9E6C-2A6E97691688}|LaptopBuilderPrototype\\LaptopBuilderPrototype.csproj|solutionrelative:laptopbuilderprototype\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4528F88C-BCBD-4585-9E6C-2A6E97691688}|LaptopBuilderPrototype\\LaptopBuilderPrototype.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\laptopbuilderprototype\\laptopbuilderprototype\\businesslaptopbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4528F88C-BCBD-4585-9E6C-2A6E97691688}|LaptopBuilderPrototype\\LaptopBuilderPrototype.csproj|solutionrelative:laptopbuilderprototype\\businesslaptopbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4528F88C-BCBD-4585-9E6C-2A6E97691688}|LaptopBuilderPrototype\\LaptopBuilderPrototype.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\laptopbuilderprototype\\laptopbuilderprototype\\gaminglaptopbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4528F88C-BCBD-4585-9E6C-2A6E97691688}|LaptopBuilderPrototype\\LaptopBuilderPrototype.csproj|solutionrelative:laptopbuilderprototype\\gaminglaptopbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4528F88C-BCBD-4585-9E6C-2A6E97691688}|LaptopBuilderPrototype\\LaptopBuilderPrototype.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\laptopbuilderprototype\\laptopbuilderprototype\\ilaptopbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4528F88C-BCBD-4585-9E6C-2A6E97691688}|LaptopBuilderPrototype\\LaptopBuilderPrototype.csproj|solutionrelative:laptopbuilderprototype\\ilaptopbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4528F88C-BCBD-4585-9E6C-2A6E97691688}|LaptopBuilderPrototype\\LaptopBuilderPrototype.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\laptopbuilderprototype\\laptopbuilderprototype\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4528F88C-BCBD-4585-9E6C-2A6E97691688}|LaptopBuilderPrototype\\LaptopBuilderPrototype.csproj|solutionrelative:laptopbuilderprototype\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LaptopBuilderPrototype\\LaptopBuilderPrototype\\Form1.cs",
+              "RelativeDocumentMoniker": "LaptopBuilderPrototype\\Form1.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LaptopBuilderPrototype\\LaptopBuilderPrototype\\Form1.cs",
+              "RelativeToolTip": "LaptopBuilderPrototype\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:17:25.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LaptopBuilderPrototype\\LaptopBuilderPrototype\\Director.cs",
+              "RelativeDocumentMoniker": "LaptopBuilderPrototype\\Director.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LaptopBuilderPrototype\\LaptopBuilderPrototype\\Director.cs",
+              "RelativeToolTip": "LaptopBuilderPrototype\\Director.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:10:52.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessLaptopBuilder.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LaptopBuilderPrototype\\LaptopBuilderPrototype\\BusinessLaptopBuilder.cs",
+              "RelativeDocumentMoniker": "LaptopBuilderPrototype\\BusinessLaptopBuilder.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LaptopBuilderPrototype\\LaptopBuilderPrototype\\BusinessLaptopBuilder.cs",
+              "RelativeToolTip": "LaptopBuilderPrototype\\BusinessLaptopBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:10:35.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GamingLaptopBuilder.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LaptopBuilderPrototype\\LaptopBuilderPrototype\\GamingLaptopBuilder.cs",
+              "RelativeDocumentMoniker": "LaptopBuilderPrototype\\GamingLaptopBuilder.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LaptopBuilderPrototype\\LaptopBuilderPrototype\\GamingLaptopBuilder.cs",
+              "RelativeToolTip": "LaptopBuilderPrototype\\GamingLaptopBuilder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:10:16.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILaptopBuilder.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LaptopBuilderPrototype\\LaptopBuilderPrototype\\ILaptopBuilder.cs",
+              "RelativeDocumentMoniker": "LaptopBuilderPrototype\\ILaptopBuilder.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LaptopBuilderPrototype\\LaptopBuilderPrototype\\ILaptopBuilder.cs",
+              "RelativeToolTip": "LaptopBuilderPrototype\\ILaptopBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:57:56.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LaptopBuilderPrototype\\LaptopBuilderPrototype\\Laptop.cs",
+              "RelativeDocumentMoniker": "LaptopBuilderPrototype\\Laptop.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LaptopBuilderPrototype\\LaptopBuilderPrototype\\Laptop.cs",
+              "RelativeToolTip": "LaptopBuilderPrototype\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:57:27.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LaptopBuilderPrototype\\LaptopBuilderPrototype\\Form1.cs",
+              "RelativeDocumentMoniker": "LaptopBuilderPrototype\\Form1.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\LaptopBuilderPrototype\\LaptopBuilderPrototype\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "LaptopBuilderPrototype\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:49:07.978Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Мои проекты\homework_college\Projects\LaptopBuilderPrototype\LaptopBuilderPrototype\bin\Debug\net8.0-windows\LaptopBuilderPrototype.exe
+C:\Мои проекты\homework_college\Projects\LaptopBuilderPrototype\LaptopBuilderPrototype\bin\Debug\net8.0-windows\LaptopBuilderPrototype.deps.json
+C:\Мои проекты\homework_college\Projects\LaptopBuilderPrototype\LaptopBuilderPrototype\bin\Debug\net8.0-windows\LaptopBuilderPrototype.runtimeconfig.json
+C:\Мои проекты\homework_college\Projects\LaptopBuilderPrototype\LaptopBuilderPrototype\bin\Debug\net8.0-windows\LaptopBuilderPrototype.dll
+C:\Мои проекты\homework_college\Projects\LaptopBuilderPrototype\LaptopBuilderPrototype\bin\Debug\net8.0-windows\LaptopBuilderPrototype.pdb
+C:\Мои проекты\homework_college\Projects\LaptopBuilderPrototype\LaptopBuilderPrototype\obj\Debug\net8.0-windows\LaptopBuilderPrototype.Form1.resources
+C:\Мои проекты\homework_college\Projects\LaptopBuilderPrototype\LaptopBuilderPrototype\obj\Debug\net8.0-windows\LaptopBuilderPrototype.csproj.GenerateResource.cache
+C:\Мои проекты\homework_college\Projects\LaptopBuilderPrototype\LaptopBuilderPrototype\obj\Debug\net8.0-windows\LaptopBuilderPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Мои проекты\homework_college\Projects\LaptopBuilderPrototype\LaptopBuilderPrototype\obj\Debug\net8.0-windows\LaptopBuilderPrototype.AssemblyInfoInputs.cache
+C:\Мои проекты\homework_college\Projects\LaptopBuilderPrototype\LaptopBuilderPrototype\obj\Debug\net8.0-windows\LaptopBuilderPrototype.AssemblyInfo.cs
+C:\Мои проекты\homework_college\Projects\LaptopBuilderPrototype\LaptopBuilderPrototype\obj\Debug\net8.0-windows\LaptopBuilderPrototype.csproj.CoreCompileInputs.cache
+C:\Мои проекты\homework_college\Projects\LaptopBuilderPrototype\LaptopBuilderPrototype\obj\Debug\net8.0-windows\LaptopBuilderPrototype.sourcelink.json
+C:\Мои проекты\homework_college\Projects\LaptopBuilderPrototype\LaptopBuilderPrototype\obj\Debug\net8.0-windows\LaptopBuilderPrototype.dll
+C:\Мои проекты\homework_college\Projects\LaptopBuilderPrototype\LaptopBuilderPrototype\obj\Debug\net8.0-windows\refint\LaptopBuilderPrototype.dll
+C:\Мои проекты\homework_college\Projects\LaptopBuilderPrototype\LaptopBuilderPrototype\obj\Debug\net8.0-windows\LaptopBuilderPrototype.pdb
+C:\Мои проекты\homework_college\Projects\LaptopBuilderPrototype\LaptopBuilderPrototype\obj\Debug\net8.0-windows\LaptopBuilderPrototype.genruntimeconfig.cache
+C:\Мои проекты\homework_college\Projects\LaptopBuilderPrototype\LaptopBuilderPrototype\obj\Debug\net8.0-windows\ref\LaptopBuilderPrototype.dll
