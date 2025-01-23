@@ -1,0 +1,16 @@
+C:\Мои проекты\homework_college\Projects\CircleDecoratorApp\CircleDecoratorApp\bin\Debug\net8.0-windows\CircleDecoratorApp.exe
+C:\Мои проекты\homework_college\Projects\CircleDecoratorApp\CircleDecoratorApp\bin\Debug\net8.0-windows\CircleDecoratorApp.deps.json
+C:\Мои проекты\homework_college\Projects\CircleDecoratorApp\CircleDecoratorApp\bin\Debug\net8.0-windows\CircleDecoratorApp.runtimeconfig.json
+C:\Мои проекты\homework_college\Projects\CircleDecoratorApp\CircleDecoratorApp\bin\Debug\net8.0-windows\CircleDecoratorApp.dll
+C:\Мои проекты\homework_college\Projects\CircleDecoratorApp\CircleDecoratorApp\bin\Debug\net8.0-windows\CircleDecoratorApp.pdb
+C:\Мои проекты\homework_college\Projects\CircleDecoratorApp\CircleDecoratorApp\obj\Debug\net8.0-windows\CircleDecoratorApp.Form1.resources
+C:\Мои проекты\homework_college\Projects\CircleDecoratorApp\CircleDecoratorApp\obj\Debug\net8.0-windows\CircleDecoratorApp.csproj.GenerateResource.cache
+C:\Мои проекты\homework_college\Projects\CircleDecoratorApp\CircleDecoratorApp\obj\Debug\net8.0-windows\CircleDecoratorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Мои проекты\homework_college\Projects\CircleDecoratorApp\CircleDecoratorApp\obj\Debug\net8.0-windows\CircleDecoratorApp.AssemblyInfoInputs.cache
+C:\Мои проекты\homework_college\Projects\CircleDecoratorApp\CircleDecoratorApp\obj\Debug\net8.0-windows\CircleDecoratorApp.AssemblyInfo.cs
+C:\Мои проекты\homework_college\Projects\CircleDecoratorApp\CircleDecoratorApp\obj\Debug\net8.0-windows\CircleDecoratorApp.csproj.CoreCompileInputs.cache
+C:\Мои проекты\homework_college\Projects\CircleDecoratorApp\CircleDecoratorApp\obj\Debug\net8.0-windows\CircleDecoratorApp.dll
+C:\Мои проекты\homework_college\Projects\CircleDecoratorApp\CircleDecoratorApp\obj\Debug\net8.0-windows\refint\CircleDecoratorApp.dll
+C:\Мои проекты\homework_college\Projects\CircleDecoratorApp\CircleDecoratorApp\obj\Debug\net8.0-windows\CircleDecoratorApp.pdb
+C:\Мои проекты\homework_college\Projects\CircleDecoratorApp\CircleDecoratorApp\obj\Debug\net8.0-windows\CircleDecoratorApp.genruntimeconfig.cache
+C:\Мои проекты\homework_college\Projects\CircleDecoratorApp\CircleDecoratorApp\obj\Debug\net8.0-windows\ref\CircleDecoratorApp.dll

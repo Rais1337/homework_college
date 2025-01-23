@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\CircleDecoratorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4163027-8F84-4F37-AE96-018D1D21F4E6}|CircleDecoratorApp\\CircleDecoratorApp.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\circledecoratorapp\\circledecoratorapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4163027-8F84-4F37-AE96-018D1D21F4E6}|CircleDecoratorApp\\CircleDecoratorApp.csproj|solutionrelative:circledecoratorapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4163027-8F84-4F37-AE96-018D1D21F4E6}|CircleDecoratorApp\\CircleDecoratorApp.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\circledecoratorapp\\circledecoratorapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4163027-8F84-4F37-AE96-018D1D21F4E6}|CircleDecoratorApp\\CircleDecoratorApp.csproj|solutionrelative:circledecoratorapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4163027-8F84-4F37-AE96-018D1D21F4E6}|CircleDecoratorApp\\CircleDecoratorApp.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\circledecoratorapp\\circledecoratorapp\\winformscircledecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4163027-8F84-4F37-AE96-018D1D21F4E6}|CircleDecoratorApp\\CircleDecoratorApp.csproj|solutionrelative:circledecoratorapp\\winformscircledecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4163027-8F84-4F37-AE96-018D1D21F4E6}|CircleDecoratorApp\\CircleDecoratorApp.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\circledecoratorapp\\circledecoratorapp\\consolecircledecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4163027-8F84-4F37-AE96-018D1D21F4E6}|CircleDecoratorApp\\CircleDecoratorApp.csproj|solutionrelative:circledecoratorapp\\consolecircledecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4163027-8F84-4F37-AE96-018D1D21F4E6}|CircleDecoratorApp\\CircleDecoratorApp.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\circledecoratorapp\\circledecoratorapp\\circledecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4163027-8F84-4F37-AE96-018D1D21F4E6}|CircleDecoratorApp\\CircleDecoratorApp.csproj|solutionrelative:circledecoratorapp\\circledecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4163027-8F84-4F37-AE96-018D1D21F4E6}|CircleDecoratorApp\\CircleDecoratorApp.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\circledecoratorapp\\circledecoratorapp\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4163027-8F84-4F37-AE96-018D1D21F4E6}|CircleDecoratorApp\\CircleDecoratorApp.csproj|solutionrelative:circledecoratorapp\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4163027-8F84-4F37-AE96-018D1D21F4E6}|CircleDecoratorApp\\CircleDecoratorApp.csproj|c:\\\u043C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\projects\\circledecoratorapp\\circledecoratorapp\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4163027-8F84-4F37-AE96-018D1D21F4E6}|CircleDecoratorApp\\CircleDecoratorApp.csproj|solutionrelative:circledecoratorapp\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\CircleDecoratorApp\\CircleDecoratorApp\\Form1.cs",
+              "RelativeDocumentMoniker": "CircleDecoratorApp\\Form1.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\CircleDecoratorApp\\CircleDecoratorApp\\Form1.cs",
+              "RelativeToolTip": "CircleDecoratorApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:41:36.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinFormsCircleDecorator.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\CircleDecoratorApp\\CircleDecoratorApp\\WinFormsCircleDecorator.cs",
+              "RelativeDocumentMoniker": "CircleDecoratorApp\\WinFormsCircleDecorator.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\CircleDecoratorApp\\CircleDecoratorApp\\WinFormsCircleDecorator.cs",
+              "RelativeToolTip": "CircleDecoratorApp\\WinFormsCircleDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:41:02.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleCircleDecorator.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\CircleDecoratorApp\\CircleDecoratorApp\\ConsoleCircleDecorator.cs",
+              "RelativeDocumentMoniker": "CircleDecoratorApp\\ConsoleCircleDecorator.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\CircleDecoratorApp\\CircleDecoratorApp\\ConsoleCircleDecorator.cs",
+              "RelativeToolTip": "CircleDecoratorApp\\ConsoleCircleDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:40:47.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CircleDecorator.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\CircleDecoratorApp\\CircleDecoratorApp\\CircleDecorator.cs",
+              "RelativeDocumentMoniker": "CircleDecoratorApp\\CircleDecorator.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\CircleDecoratorApp\\CircleDecoratorApp\\CircleDecorator.cs",
+              "RelativeToolTip": "CircleDecoratorApp\\CircleDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:40:28.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\CircleDecoratorApp\\CircleDecoratorApp\\Circle.cs",
+              "RelativeDocumentMoniker": "CircleDecoratorApp\\Circle.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\CircleDecoratorApp\\CircleDecoratorApp\\Circle.cs",
+              "RelativeToolTip": "CircleDecoratorApp\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:39:07.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICircle.cs",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\CircleDecoratorApp\\CircleDecoratorApp\\ICircle.cs",
+              "RelativeDocumentMoniker": "CircleDecoratorApp\\ICircle.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\CircleDecoratorApp\\CircleDecoratorApp\\ICircle.cs",
+              "RelativeToolTip": "CircleDecoratorApp\\ICircle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:38:40.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\CircleDecoratorApp\\CircleDecoratorApp\\Form1.cs",
+              "RelativeDocumentMoniker": "CircleDecoratorApp\\Form1.cs",
+              "ToolTip": "C:\\\u041C\u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\homework_college\\Projects\\CircleDecoratorApp\\CircleDecoratorApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CircleDecoratorApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:34:18.435Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
