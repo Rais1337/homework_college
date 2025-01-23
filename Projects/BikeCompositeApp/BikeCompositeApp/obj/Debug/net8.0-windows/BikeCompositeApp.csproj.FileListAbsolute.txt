@@ -1,0 +1,17 @@
+C:\Projects\homework_college\Projects\BikeCompositeApp\BikeCompositeApp\bin\Debug\net8.0-windows\BikeCompositeApp.exe
+C:\Projects\homework_college\Projects\BikeCompositeApp\BikeCompositeApp\bin\Debug\net8.0-windows\BikeCompositeApp.deps.json
+C:\Projects\homework_college\Projects\BikeCompositeApp\BikeCompositeApp\bin\Debug\net8.0-windows\BikeCompositeApp.runtimeconfig.json
+C:\Projects\homework_college\Projects\BikeCompositeApp\BikeCompositeApp\bin\Debug\net8.0-windows\BikeCompositeApp.dll
+C:\Projects\homework_college\Projects\BikeCompositeApp\BikeCompositeApp\bin\Debug\net8.0-windows\BikeCompositeApp.pdb
+C:\Projects\homework_college\Projects\BikeCompositeApp\BikeCompositeApp\obj\Debug\net8.0-windows\BikeCompositeApp.Form1.resources
+C:\Projects\homework_college\Projects\BikeCompositeApp\BikeCompositeApp\obj\Debug\net8.0-windows\BikeCompositeApp.csproj.GenerateResource.cache
+C:\Projects\homework_college\Projects\BikeCompositeApp\BikeCompositeApp\obj\Debug\net8.0-windows\BikeCompositeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\homework_college\Projects\BikeCompositeApp\BikeCompositeApp\obj\Debug\net8.0-windows\BikeCompositeApp.AssemblyInfoInputs.cache
+C:\Projects\homework_college\Projects\BikeCompositeApp\BikeCompositeApp\obj\Debug\net8.0-windows\BikeCompositeApp.AssemblyInfo.cs
+C:\Projects\homework_college\Projects\BikeCompositeApp\BikeCompositeApp\obj\Debug\net8.0-windows\BikeCompositeApp.csproj.CoreCompileInputs.cache
+C:\Projects\homework_college\Projects\BikeCompositeApp\BikeCompositeApp\obj\Debug\net8.0-windows\BikeCompositeApp.sourcelink.json
+C:\Projects\homework_college\Projects\BikeCompositeApp\BikeCompositeApp\obj\Debug\net8.0-windows\BikeCompositeApp.dll
+C:\Projects\homework_college\Projects\BikeCompositeApp\BikeCompositeApp\obj\Debug\net8.0-windows\refint\BikeCompositeApp.dll
+C:\Projects\homework_college\Projects\BikeCompositeApp\BikeCompositeApp\obj\Debug\net8.0-windows\BikeCompositeApp.pdb
+C:\Projects\homework_college\Projects\BikeCompositeApp\BikeCompositeApp\obj\Debug\net8.0-windows\BikeCompositeApp.genruntimeconfig.cache
+C:\Projects\homework_college\Projects\BikeCompositeApp\BikeCompositeApp\obj\Debug\net8.0-windows\ref\BikeCompositeApp.dll
