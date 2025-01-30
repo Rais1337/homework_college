@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\homework_college\\Projects\\EBookProxyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91EAFD0A-751C-4E3B-BD95-6346AEBB9E6B}|EBookProxyApp\\EBookProxyApp.csproj|c:\\projects\\homework_college\\projects\\ebookproxyapp\\ebookproxyapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91EAFD0A-751C-4E3B-BD95-6346AEBB9E6B}|EBookProxyApp\\EBookProxyApp.csproj|solutionrelative:ebookproxyapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EAFD0A-751C-4E3B-BD95-6346AEBB9E6B}|EBookProxyApp\\EBookProxyApp.csproj|c:\\projects\\homework_college\\projects\\ebookproxyapp\\ebookproxyapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EAFD0A-751C-4E3B-BD95-6346AEBB9E6B}|EBookProxyApp\\EBookProxyApp.csproj|solutionrelative:ebookproxyapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EAFD0A-751C-4E3B-BD95-6346AEBB9E6B}|EBookProxyApp\\EBookProxyApp.csproj|c:\\projects\\homework_college\\projects\\ebookproxyapp\\ebookproxyapp\\proxybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EAFD0A-751C-4E3B-BD95-6346AEBB9E6B}|EBookProxyApp\\EBookProxyApp.csproj|solutionrelative:ebookproxyapp\\proxybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EAFD0A-751C-4E3B-BD95-6346AEBB9E6B}|EBookProxyApp\\EBookProxyApp.csproj|c:\\projects\\homework_college\\projects\\ebookproxyapp\\ebookproxyapp\\realbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EAFD0A-751C-4E3B-BD95-6346AEBB9E6B}|EBookProxyApp\\EBookProxyApp.csproj|solutionrelative:ebookproxyapp\\realbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EAFD0A-751C-4E3B-BD95-6346AEBB9E6B}|EBookProxyApp\\EBookProxyApp.csproj|c:\\projects\\homework_college\\projects\\ebookproxyapp\\ebookproxyapp\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EAFD0A-751C-4E3B-BD95-6346AEBB9E6B}|EBookProxyApp\\EBookProxyApp.csproj|solutionrelative:ebookproxyapp\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Projects\\homework_college\\Projects\\EBookProxyApp\\EBookProxyApp\\Form1.cs",
+              "RelativeDocumentMoniker": "EBookProxyApp\\Form1.cs",
+              "ToolTip": "C:\\Projects\\homework_college\\Projects\\EBookProxyApp\\EBookProxyApp\\Form1.cs",
+              "RelativeToolTip": "EBookProxyApp\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:56:24.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProxyBook.cs",
+              "DocumentMoniker": "C:\\Projects\\homework_college\\Projects\\EBookProxyApp\\EBookProxyApp\\ProxyBook.cs",
+              "RelativeDocumentMoniker": "EBookProxyApp\\ProxyBook.cs",
+              "ToolTip": "C:\\Projects\\homework_college\\Projects\\EBookProxyApp\\EBookProxyApp\\ProxyBook.cs",
+              "RelativeToolTip": "EBookProxyApp\\ProxyBook.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:43:45.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RealBook.cs",
+              "DocumentMoniker": "C:\\Projects\\homework_college\\Projects\\EBookProxyApp\\EBookProxyApp\\RealBook.cs",
+              "RelativeDocumentMoniker": "EBookProxyApp\\RealBook.cs",
+              "ToolTip": "C:\\Projects\\homework_college\\Projects\\EBookProxyApp\\EBookProxyApp\\RealBook.cs",
+              "RelativeToolTip": "EBookProxyApp\\RealBook.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:43:38.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Projects\\homework_college\\Projects\\EBookProxyApp\\EBookProxyApp\\IBook.cs",
+              "RelativeDocumentMoniker": "EBookProxyApp\\IBook.cs",
+              "ToolTip": "C:\\Projects\\homework_college\\Projects\\EBookProxyApp\\EBookProxyApp\\IBook.cs",
+              "RelativeToolTip": "EBookProxyApp\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:41:24.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Projects\\homework_college\\Projects\\EBookProxyApp\\EBookProxyApp\\Form1.cs",
+              "RelativeDocumentMoniker": "EBookProxyApp\\Form1.cs",
+              "ToolTip": "C:\\Projects\\homework_college\\Projects\\EBookProxyApp\\EBookProxyApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "EBookProxyApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:40:30.387Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

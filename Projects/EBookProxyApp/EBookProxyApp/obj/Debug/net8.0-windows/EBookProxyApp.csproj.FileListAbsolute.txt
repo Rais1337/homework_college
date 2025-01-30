@@ -1,0 +1,17 @@
+C:\Projects\homework_college\Projects\EBookProxyApp\EBookProxyApp\bin\Debug\net8.0-windows\EBookProxyApp.exe
+C:\Projects\homework_college\Projects\EBookProxyApp\EBookProxyApp\bin\Debug\net8.0-windows\EBookProxyApp.deps.json
+C:\Projects\homework_college\Projects\EBookProxyApp\EBookProxyApp\bin\Debug\net8.0-windows\EBookProxyApp.runtimeconfig.json
+C:\Projects\homework_college\Projects\EBookProxyApp\EBookProxyApp\bin\Debug\net8.0-windows\EBookProxyApp.dll
+C:\Projects\homework_college\Projects\EBookProxyApp\EBookProxyApp\bin\Debug\net8.0-windows\EBookProxyApp.pdb
+C:\Projects\homework_college\Projects\EBookProxyApp\EBookProxyApp\obj\Debug\net8.0-windows\EBookProxyApp.Form1.resources
+C:\Projects\homework_college\Projects\EBookProxyApp\EBookProxyApp\obj\Debug\net8.0-windows\EBookProxyApp.csproj.GenerateResource.cache
+C:\Projects\homework_college\Projects\EBookProxyApp\EBookProxyApp\obj\Debug\net8.0-windows\EBookProxyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\homework_college\Projects\EBookProxyApp\EBookProxyApp\obj\Debug\net8.0-windows\EBookProxyApp.AssemblyInfoInputs.cache
+C:\Projects\homework_college\Projects\EBookProxyApp\EBookProxyApp\obj\Debug\net8.0-windows\EBookProxyApp.AssemblyInfo.cs
+C:\Projects\homework_college\Projects\EBookProxyApp\EBookProxyApp\obj\Debug\net8.0-windows\EBookProxyApp.csproj.CoreCompileInputs.cache
+C:\Projects\homework_college\Projects\EBookProxyApp\EBookProxyApp\obj\Debug\net8.0-windows\EBookProxyApp.sourcelink.json
+C:\Projects\homework_college\Projects\EBookProxyApp\EBookProxyApp\obj\Debug\net8.0-windows\EBookProxyApp.dll
+C:\Projects\homework_college\Projects\EBookProxyApp\EBookProxyApp\obj\Debug\net8.0-windows\refint\EBookProxyApp.dll
+C:\Projects\homework_college\Projects\EBookProxyApp\EBookProxyApp\obj\Debug\net8.0-windows\EBookProxyApp.pdb
+C:\Projects\homework_college\Projects\EBookProxyApp\EBookProxyApp\obj\Debug\net8.0-windows\EBookProxyApp.genruntimeconfig.cache
+C:\Projects\homework_college\Projects\EBookProxyApp\EBookProxyApp\obj\Debug\net8.0-windows\ref\EBookProxyApp.dll
