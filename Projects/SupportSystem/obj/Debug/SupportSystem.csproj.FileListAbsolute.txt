@@ -1,0 +1,10 @@
+C:\Projects\homework_college\Projects\SupportSystem\bin\Debug\SupportSystem.exe.config
+C:\Projects\homework_college\Projects\SupportSystem\bin\Debug\SupportSystem.exe
+C:\Projects\homework_college\Projects\SupportSystem\bin\Debug\SupportSystem.pdb
+C:\Projects\homework_college\Projects\SupportSystem\obj\Debug\SupportSystem.csproj.AssemblyReference.cache
+C:\Projects\homework_college\Projects\SupportSystem\obj\Debug\SupportSystem.Form1.resources
+C:\Projects\homework_college\Projects\SupportSystem\obj\Debug\SupportSystem.Properties.Resources.resources
+C:\Projects\homework_college\Projects\SupportSystem\obj\Debug\SupportSystem.csproj.GenerateResource.cache
+C:\Projects\homework_college\Projects\SupportSystem\obj\Debug\SupportSystem.csproj.CoreCompileInputs.cache
+C:\Projects\homework_college\Projects\SupportSystem\obj\Debug\SupportSystem.exe
+C:\Projects\homework_college\Projects\SupportSystem\obj\Debug\SupportSystem.pdb
