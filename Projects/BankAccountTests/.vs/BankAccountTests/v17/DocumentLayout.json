@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\homework_college\\Projects\\BankAccountTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12E36885-3AF4-488E-847D-9B908D57B667}|BankAccountTests.csproj|c:\\projects\\homework_college\\projects\\bankaccounttests\\interestcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E36885-3AF4-488E-847D-9B908D57B667}|BankAccountTests.csproj|solutionrelative:interestcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E36885-3AF4-488E-847D-9B908D57B667}|BankAccountTests.csproj|c:\\projects\\homework_college\\projects\\bankaccounttests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E36885-3AF4-488E-847D-9B908D57B667}|BankAccountTests.csproj|solutionrelative:mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterestCalculatorTests.cs",
+              "DocumentMoniker": "C:\\Projects\\homework_college\\Projects\\BankAccountTests\\InterestCalculatorTests.cs",
+              "RelativeDocumentMoniker": "InterestCalculatorTests.cs",
+              "ToolTip": "C:\\Projects\\homework_college\\Projects\\BankAccountTests\\InterestCalculatorTests.cs",
+              "RelativeToolTip": "InterestCalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:03:23.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Projects\\homework_college\\Projects\\BankAccountTests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "MSTestSettings.cs",
+              "ToolTip": "C:\\Projects\\homework_college\\Projects\\BankAccountTests\\MSTestSettings.cs",
+              "RelativeToolTip": "MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:57:58.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

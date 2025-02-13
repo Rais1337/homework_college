@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\homework_college\\Projects\\BankAccount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C39062FB-53D3-4A9A-A970-1E0746CFDC8A}|BankAccount.csproj|c:\\projects\\homework_college\\projects\\bankaccount\\interestcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39062FB-53D3-4A9A-A970-1E0746CFDC8A}|BankAccount.csproj|solutionrelative:interestcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterestCalculator.cs",
+              "DocumentMoniker": "C:\\Projects\\homework_college\\Projects\\BankAccount\\InterestCalculator.cs",
+              "RelativeDocumentMoniker": "InterestCalculator.cs",
+              "ToolTip": "C:\\Projects\\homework_college\\Projects\\BankAccount\\InterestCalculator.cs",
+              "RelativeToolTip": "InterestCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:59:35.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
