@@ -1,0 +1,10 @@
+C:\Projects\homework_college\Projects\DarkRP_Professions\obj\Debug\DarkRP_Professions.csproj.AssemblyReference.cache
+C:\Projects\homework_college\Projects\DarkRP_Professions\obj\Debug\DarkRP_Professions.Properties.Resources.resources
+C:\Projects\homework_college\Projects\DarkRP_Professions\obj\Debug\DarkRP_Professions.csproj.GenerateResource.cache
+C:\Projects\homework_college\Projects\DarkRP_Professions\obj\Debug\DarkRP_Professions.csproj.CoreCompileInputs.cache
+C:\Projects\homework_college\Projects\DarkRP_Professions\bin\Debug\DarkRP_Professions.exe.config
+C:\Projects\homework_college\Projects\DarkRP_Professions\bin\Debug\DarkRP_Professions.exe
+C:\Projects\homework_college\Projects\DarkRP_Professions\bin\Debug\DarkRP_Professions.pdb
+C:\Projects\homework_college\Projects\DarkRP_Professions\obj\Debug\DarkRP_Professions.exe
+C:\Projects\homework_college\Projects\DarkRP_Professions\obj\Debug\DarkRP_Professions.pdb
+C:\Projects\homework_college\Projects\DarkRP_Professions\obj\Debug\DarkRP_Professions.MainForm.resources
