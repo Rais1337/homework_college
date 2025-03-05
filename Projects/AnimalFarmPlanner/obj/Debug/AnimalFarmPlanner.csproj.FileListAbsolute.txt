@@ -1,0 +1,10 @@
+C:\Projects\homework_college\Projects\AnimalFarmPlanner\obj\Debug\AnimalFarmPlanner.csproj.AssemblyReference.cache
+C:\Projects\homework_college\Projects\AnimalFarmPlanner\obj\Debug\AnimalFarmPlanner.Form1.resources
+C:\Projects\homework_college\Projects\AnimalFarmPlanner\obj\Debug\AnimalFarmPlanner.Properties.Resources.resources
+C:\Projects\homework_college\Projects\AnimalFarmPlanner\obj\Debug\AnimalFarmPlanner.csproj.GenerateResource.cache
+C:\Projects\homework_college\Projects\AnimalFarmPlanner\obj\Debug\AnimalFarmPlanner.csproj.CoreCompileInputs.cache
+C:\Projects\homework_college\Projects\AnimalFarmPlanner\bin\Debug\AnimalFarmPlanner.exe.config
+C:\Projects\homework_college\Projects\AnimalFarmPlanner\bin\Debug\AnimalFarmPlanner.exe
+C:\Projects\homework_college\Projects\AnimalFarmPlanner\bin\Debug\AnimalFarmPlanner.pdb
+C:\Projects\homework_college\Projects\AnimalFarmPlanner\obj\Debug\AnimalFarmPlanner.exe
+C:\Projects\homework_college\Projects\AnimalFarmPlanner\obj\Debug\AnimalFarmPlanner.pdb

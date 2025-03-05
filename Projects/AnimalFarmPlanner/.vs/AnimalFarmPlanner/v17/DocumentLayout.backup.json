@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\homework_college\\Projects\\AnimalFarmPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E18563C-5C3F-4620-B564-638BD83A0CE5}|AnimalFarmPlanner.csproj|c:\\projects\\homework_college\\projects\\animalfarmplanner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E18563C-5C3F-4620-B564-638BD83A0CE5}|AnimalFarmPlanner.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E18563C-5C3F-4620-B564-638BD83A0CE5}|AnimalFarmPlanner.csproj|c:\\projects\\homework_college\\projects\\animalfarmplanner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E18563C-5C3F-4620-B564-638BD83A0CE5}|AnimalFarmPlanner.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E18563C-5C3F-4620-B564-638BD83A0CE5}|AnimalFarmPlanner.csproj|c:\\projects\\homework_college\\projects\\animalfarmplanner\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E18563C-5C3F-4620-B564-638BD83A0CE5}|AnimalFarmPlanner.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E18563C-5C3F-4620-B564-638BD83A0CE5}|AnimalFarmPlanner.csproj|c:\\projects\\homework_college\\projects\\animalfarmplanner\\farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E18563C-5C3F-4620-B564-638BD83A0CE5}|AnimalFarmPlanner.csproj|solutionrelative:farm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E18563C-5C3F-4620-B564-638BD83A0CE5}|AnimalFarmPlanner.csproj|c:\\projects\\homework_college\\projects\\animalfarmplanner\\cowstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E18563C-5C3F-4620-B564-638BD83A0CE5}|AnimalFarmPlanner.csproj|solutionrelative:cowstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E18563C-5C3F-4620-B564-638BD83A0CE5}|AnimalFarmPlanner.csproj|c:\\projects\\homework_college\\projects\\animalfarmplanner\\pigstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E18563C-5C3F-4620-B564-638BD83A0CE5}|AnimalFarmPlanner.csproj|solutionrelative:pigstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E18563C-5C3F-4620-B564-638BD83A0CE5}|AnimalFarmPlanner.csproj|c:\\projects\\homework_college\\projects\\animalfarmplanner\\chickenstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E18563C-5C3F-4620-B564-638BD83A0CE5}|AnimalFarmPlanner.csproj|solutionrelative:chickenstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E18563C-5C3F-4620-B564-638BD83A0CE5}|AnimalFarmPlanner.csproj|c:\\projects\\homework_college\\projects\\animalfarmplanner\\igrowthstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E18563C-5C3F-4620-B564-638BD83A0CE5}|AnimalFarmPlanner.csproj|solutionrelative:igrowthstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Farm.cs",
+              "DocumentMoniker": "C:\\Projects\\homework_college\\Projects\\AnimalFarmPlanner\\Farm.cs",
+              "RelativeDocumentMoniker": "Farm.cs",
+              "ToolTip": "C:\\Projects\\homework_college\\Projects\\AnimalFarmPlanner\\Farm.cs",
+              "RelativeToolTip": "Farm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:08:33.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Projects\\homework_college\\Projects\\AnimalFarmPlanner\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Projects\\homework_college\\Projects\\AnimalFarmPlanner\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwEwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:09:09.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Projects\\homework_college\\Projects\\AnimalFarmPlanner\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Projects\\homework_college\\Projects\\AnimalFarmPlanner\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:08:54.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CowStrategy.cs",
+              "DocumentMoniker": "C:\\Projects\\homework_college\\Projects\\AnimalFarmPlanner\\CowStrategy.cs",
+              "RelativeDocumentMoniker": "CowStrategy.cs",
+              "ToolTip": "C:\\Projects\\homework_college\\Projects\\AnimalFarmPlanner\\CowStrategy.cs",
+              "RelativeToolTip": "CowStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:07:30.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PigStrategy.cs",
+              "DocumentMoniker": "C:\\Projects\\homework_college\\Projects\\AnimalFarmPlanner\\PigStrategy.cs",
+              "RelativeDocumentMoniker": "PigStrategy.cs",
+              "ToolTip": "C:\\Projects\\homework_college\\Projects\\AnimalFarmPlanner\\PigStrategy.cs",
+              "RelativeToolTip": "PigStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:06:42.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChickenStrategy.cs",
+              "DocumentMoniker": "C:\\Projects\\homework_college\\Projects\\AnimalFarmPlanner\\ChickenStrategy.cs",
+              "RelativeDocumentMoniker": "ChickenStrategy.cs",
+              "ToolTip": "C:\\Projects\\homework_college\\Projects\\AnimalFarmPlanner\\ChickenStrategy.cs",
+              "RelativeToolTip": "ChickenStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:05:33.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGrowthStrategy.cs",
+              "DocumentMoniker": "C:\\Projects\\homework_college\\Projects\\AnimalFarmPlanner\\IGrowthStrategy.cs",
+              "RelativeDocumentMoniker": "IGrowthStrategy.cs",
+              "ToolTip": "C:\\Projects\\homework_college\\Projects\\AnimalFarmPlanner\\IGrowthStrategy.cs",
+              "RelativeToolTip": "IGrowthStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:05:16.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Projects\\homework_college\\Projects\\AnimalFarmPlanner\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Projects\\homework_college\\Projects\\AnimalFarmPlanner\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:01:31.851Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
