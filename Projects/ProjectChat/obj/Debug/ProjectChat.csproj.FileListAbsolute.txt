@@ -1,0 +1,10 @@
+C:\Projects\homework_college\Projects\ProjectChat\bin\Debug\ProjectChat.exe.config
+C:\Projects\homework_college\Projects\ProjectChat\bin\Debug\ProjectChat.exe
+C:\Projects\homework_college\Projects\ProjectChat\bin\Debug\ProjectChat.pdb
+C:\Projects\homework_college\Projects\ProjectChat\obj\Debug\ProjectChat.csproj.AssemblyReference.cache
+C:\Projects\homework_college\Projects\ProjectChat\obj\Debug\ProjectChat.Form1.resources
+C:\Projects\homework_college\Projects\ProjectChat\obj\Debug\ProjectChat.Properties.Resources.resources
+C:\Projects\homework_college\Projects\ProjectChat\obj\Debug\ProjectChat.csproj.GenerateResource.cache
+C:\Projects\homework_college\Projects\ProjectChat\obj\Debug\ProjectChat.csproj.CoreCompileInputs.cache
+C:\Projects\homework_college\Projects\ProjectChat\obj\Debug\ProjectChat.exe
+C:\Projects\homework_college\Projects\ProjectChat\obj\Debug\ProjectChat.pdb
