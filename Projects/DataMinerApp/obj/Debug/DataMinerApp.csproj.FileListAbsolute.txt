@@ -1,0 +1,5 @@
+C:\Projects\homework_college\Projects\DataMinerApp\obj\Debug\DataMinerApp.csproj.AssemblyReference.cache
+C:\Projects\homework_college\Projects\DataMinerApp\obj\Debug\DataMinerApp.Form1.resources
+C:\Projects\homework_college\Projects\DataMinerApp\obj\Debug\DataMinerApp.Properties.Resources.resources
+C:\Projects\homework_college\Projects\DataMinerApp\obj\Debug\DataMinerApp.csproj.GenerateResource.cache
+C:\Projects\homework_college\Projects\DataMinerApp\obj\Debug\DataMinerApp.csproj.CoreCompileInputs.cache
